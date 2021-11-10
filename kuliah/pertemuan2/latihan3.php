@@ -28,6 +28,7 @@ $mahasiswa = query("SELECT * FROM mahasiswa");
     <div class="container mt-4">
         <h3 class="text-center">Daftar Mahasiswa</h3>
         <hr>
+        <a class="btn btn-primary" href="tambah.php">Tambah Mahasiswa</a>
         <div class="row mt-5">
             <div class="col-lg-2"></div>
 
